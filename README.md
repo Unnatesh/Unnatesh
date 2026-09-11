@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Unnatesh
+- 👋 Hi, I’m @Unnatesh, An INTP rare folk
 - 👀 I’m interested in Data science, Python
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Projects
